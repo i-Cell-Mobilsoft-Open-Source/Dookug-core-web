@@ -1,1 +1,5 @@
-semantic level tokens are stored here
+• pagination (ready)
+• tab  (ready)
+• tag (ready)
+• breadcrumb  (coming soon)
+• stepper (coming soon)
