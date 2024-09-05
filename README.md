@@ -1,1 +1,1 @@
-ids core
+feedbacks component tokens are stored comp-size and comp-color. ignorre foundation tokens (smc or base level)
