@@ -1,1 +1,10 @@
 feedbacks component tokens are stored comp-size and comp-color. ignorre foundation tokens (smc or base level)
+
+• Snackbar (ready)
+• Tooltip (ready)
+• Notification banner (coming soon)
+• Alert banner (coming soon)
+• Popover (coming soon)
+• Badge (coming soon)
+• Spinner (coming soon)
+• Progress bar (coming soon)
