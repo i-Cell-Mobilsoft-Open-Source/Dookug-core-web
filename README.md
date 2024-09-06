@@ -1,1 +1,5 @@
-semantic level tokens are stored here
+• radio button (ready)
+• checkbox (ready)
+• switch (ready)
+• chip (ready)
+• slider (coming soon)
