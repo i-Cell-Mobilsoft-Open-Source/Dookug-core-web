@@ -1,1 +1,3 @@
-semantic level tokens are stored here
+• menu item (ready)
+• action menu (ready)
+• action panel (ready)
