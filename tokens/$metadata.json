@@ -9,9 +9,9 @@
     "smc-layout/xlarge",
     "smc-layout/small",
     "comp-color/component",
-    "comp-size/comfortable",
-    "comp-size/spacious",
     "comp-size/dense",
-    "comp-size/compact"
+    "comp-size/compact",
+    "comp-size/comfortable",
+    "comp-size/spacious"
   ]
 }
