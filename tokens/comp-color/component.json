@@ -1,46 +1,6 @@
 {
   "comp": {
     "color": {
-      "tooltip": {
-        "color": {
-          "bg": {
-            "light": {
-              "default": {
-                "value": "{smc.reference.container.color.bg.light.fixed.default}",
-                "type": "color"
-              }
-            },
-            "dark": {
-              "default": {
-                "value": "{smc.reference.container.color.bg.dark.default}",
-                "type": "color"
-              }
-            }
-          },
-          "fg": {
-            "light": {
-              "default": {
-                "value": "{smc.reference.container.color.fg.light.fixed.default}",
-                "type": "color"
-              },
-              "disabled": {
-                "value": "{smc.reference.container.color.fg.disabled.default}",
-                "type": "color"
-              }
-            },
-            "dark": {
-              "default": {
-                "value": "{smc.reference.container.color.fg.dark.default}",
-                "type": "color"
-              },
-              "disabled": {
-                "value": "{smc.reference.container.color.fg.disabled.default}",
-                "type": "color"
-              }
-            }
-          }
-        }
-      },
       "snackbar": {
         "focused-outline": {
           "color": {
