@@ -3456,6 +3456,10 @@
           "default": {
             "value": "{base.typography.font-family.Montserrat}",
             "type": "text"
+          },
+          "font-icon-default": {
+            "value": "{base.typography.font-family.IdsFonticon}",
+            "type": "text"
           }
         },
         "font-size": {
@@ -3632,6 +3636,16 @@
           "loosest": {
             "value": "{base.em.050}",
             "type": "number"
+          }
+        },
+        "iconset": {
+          "default": {
+            "value": "{base.typography.font-family.IdsFonticon}",
+            "type": "text"
+          },
+          "custom": {
+            "value": "{base.typography.font-family.MaterialIcons}",
+            "type": "text"
           }
         }
       },
