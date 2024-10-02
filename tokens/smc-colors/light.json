@@ -844,6 +844,12 @@
             "type": "color"
           }
         }
+      },
+      "fixed": {
+        "darker-50": {
+          "value": "{base.color.Custom.950}",
+          "type": "color"
+        }
       }
     }
   },
