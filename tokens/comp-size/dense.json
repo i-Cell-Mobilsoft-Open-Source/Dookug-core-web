@@ -1,7 +1,7 @@
 {
   "comp": {
     "size": {
-      "action-panel": {
+      "overlay-panel": {
         "size": {
           "padding-x": {
             "value": "{smc.reference.container.padding.16}",
