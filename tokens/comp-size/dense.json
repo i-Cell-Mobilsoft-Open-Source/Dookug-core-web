@@ -49,10 +49,6 @@
           },
           "iconset": {
             "typography": {
-              "font-family": {
-                "value": "{smc.reference.typography.iconset.default}",
-                "type": "text"
-              },
               "font-size": {
                 "value": "{smc.reference.typography.font-size.12}",
                 "type": "number"
