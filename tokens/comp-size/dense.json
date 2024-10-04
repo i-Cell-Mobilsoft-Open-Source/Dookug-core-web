@@ -46,6 +46,26 @@
               "value": "{smc.reference.container.icon-nested.2xs}",
               "type": "number"
             }
+          },
+          "iconset": {
+            "typography": {
+              "font-family": {
+                "value": "{smc.reference.typography.iconset.default}",
+                "type": "text"
+              },
+              "font-size": {
+                "value": "{smc.reference.typography.font-size.12}",
+                "type": "number"
+              },
+              "font-weight": {
+                "value": "{smc.reference.typography.font-weight.Regular}",
+                "type": "number"
+              },
+              "line-height": {
+                "value": "{smc.reference.typography.line-height.12}",
+                "type": "number"
+              }
+            }
           }
         }
       }
