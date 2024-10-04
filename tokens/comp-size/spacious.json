@@ -63,6 +63,26 @@
               "type": "number"
             }
           }
+        },
+        "iconset": {
+          "typography": {
+            "font-family": {
+              "value": "{smc.reference.typography.iconset.default}",
+              "type": "text"
+            },
+            "font-size": {
+              "value": "{smc.reference.typography.font-size.32}",
+              "type": "number"
+            },
+            "line-height": {
+              "value": "{smc.reference.typography.line-height.32}",
+              "type": "number"
+            },
+            "font-weight": {
+              "value": "{smc.reference.typography.font-weight.Regular}",
+              "type": "number"
+            }
+          }
         }
       }
     }
