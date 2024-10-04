@@ -47,22 +47,6 @@
               "type": "number"
             }
           },
-          "iconset": {
-            "typography": {
-              "font-size": {
-                "value": "{smc.reference.typography.font-size.12}",
-                "type": "number"
-              },
-              "font-weight": {
-                "value": "{smc.reference.typography.font-weight.Regular}",
-                "type": "number"
-              },
-              "line-height": {
-                "value": "{smc.reference.typography.line-height.12}",
-                "type": "number"
-              }
-            }
-          },
           "icon": {
             "typography": {
               "font-family": {
