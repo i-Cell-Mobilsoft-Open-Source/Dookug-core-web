@@ -1397,29 +1397,29 @@
                   "type": "color"
                 },
                 "disabled": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.200}",
+                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
                   "type": "color"
                 }
               },
               "light": {
                 "default": {
-                  "value": "{smc.reference.container.color.bg.surface.default}",
+                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
-                  "type": "color"
-                },
-                "focused": {
-                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
-                  "type": "color"
-                },
-                "pressed": {
                   "value": "{smc.reference.container.color.bg.surface.default}",
                   "type": "color"
                 },
+                "focused": {
+                  "value": "{smc.reference.container.color.bg.surface.default}",
+                  "type": "color"
+                },
+                "pressed": {
+                  "value": "{smc.reference.container.color.bg.surface.darker-10}",
+                  "type": "color"
+                },
                 "disabled": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.250}",
+                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
                   "type": "color"
                 }
               }
