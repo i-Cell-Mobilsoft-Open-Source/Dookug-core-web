@@ -294,6 +294,8 @@
       "base.color.Opacity.Dark.900": "1b8cec3235b20b2276fd1c94091c21bb754d7561",
       "base.color.Opacity.Dark.950": "3c69e8f54fcfabb8eebbbfb70d2dc48073aff0d0",
       "base.typography.font-family.Montserrat": "91c39447f96774ead933efc24df1ce47efe6353d",
+      "base.typography.font-family.IdsFonticon": "bf8eff296d0af6c81c402399b98b67552b3263b8",
+      "base.typography.font-family.MaterialIcons": "c97f0952a2fa348d25f9fb20d3c9dbaa1b212969",
       "base.typography.weight.100": "275d522e1e3c0d960819fe6a406f33f557ddbc1a",
       "base.typography.weight.200": "f6b3e18037bb9c76d3580b14337635717b1689f4",
       "base.typography.weight.300": "a68d0bdd3c15023da2760d902b03f4c05c65ad43",
@@ -1233,6 +1235,8 @@
       "smc.reference.typography.font-size.24": "f8556f46ef6340f1e4886718619da4da0a45a7f9",
       "smc.reference.typography.font-size.28": "1b3347abcbccc9cdb1293c797567e1730cd191cb",
       "smc.reference.typography.font-size.32": "b6ae272dbff1159ef893c8ab731728bbc4fe2ed5",
+      "smc.reference.typography.font-size.36": "c2e97c1e26d3712b95535fb735b663d412622683",
+      "smc.reference.typography.font-size.40": "ae0684b507262199d9d6aca91fd3c2ec56798ee8",
       "smc.reference.typography.font-size.48": "e4e00ea7d665278f5866553ccbd42bde2e87806b",
       "smc.reference.typography.font-size.72": "24e272d74519c822f20031df005700ca3b81b5f0",
       "smc.reference.typography.line-height.10": "63d44f4262f1ca3db8c67221c279796761f5a0e5",
@@ -1245,6 +1249,8 @@
       "smc.reference.typography.line-height.28": "418d9f73786a93543f7e8a2a4be8d18f8c1e7c08",
       "smc.reference.typography.line-height.32": "3ffa0fe433bc193ed410971905cfdc7f8626cb41",
       "smc.reference.typography.line-height.36": "b6e02b5edcdccaef65b56a401655ddd9bd78c4c8",
+      "smc.reference.typography.line-height.40": "5c7d9a60ab273d88a7cd27ddf2b433e00f8e950a",
+      "smc.reference.typography.line-height.44": "8557cc3b3416dee95cba4011cf9ed198d69dc948",
       "smc.reference.typography.line-height.48": "fd6d9a3f906d7de1e5f3658ac007aa931345119d",
       "smc.reference.typography.line-height.72": "5e0e755b42ead9316e3ca881a23f527e0822bda7",
       "smc.reference.typography.font-weight.Thin": "33a60eb773649efaa314a237a106053608f75956",
@@ -1264,6 +1270,8 @@
       "smc.reference.typography.letter-spacing.loose": "16327829fd36a44db22168fe8a0a6aa47adbc01c",
       "smc.reference.typography.letter-spacing.looser": "9dc75a86d4289b7c679ba0da07261f5429c91c77",
       "smc.reference.typography.letter-spacing.loosest": "5a041138a1f997629fc3ea512228a423eb0c181b",
+      "smc.reference.typography.iconset.default": "fc6cd49a915f2c93ea74811c347381c9c5d463ef",
+      "smc.reference.typography.iconset.custom": "75d48f8c523fcbec028312abdc2655470d013f76",
       "smc.reference.icon.none": "4ccee0dfff60b027ac56544d00219763773ca09e",
       "smc.reference.icon.3xs": "b4b095d60672a321ae80446d7160a52142fbc9ea",
       "smc.reference.icon.xs": "85fb51bf65eb9afee6656dc78c9b03121be4ce3d",
@@ -1271,7 +1279,10 @@
       "smc.reference.icon.md": "d9374b8cf82dfbf06bcb8f9888bcc8e41266e18b",
       "smc.reference.icon.lg": "a25fafab065d3920903da2816ae4522127bdde2f",
       "smc.reference.icon.xl": "cfc1ad0fde61c11d220d0dec0b0b3f5772592fff",
-      "smc.reference.icon.2xs": "cec7efc0b4f5f3976b15497ef172fff88905cecf"
+      "smc.reference.icon.2xs": "cec7efc0b4f5f3976b15497ef172fff88905cecf",
+      "smc.reference.icon.2xl": "acc61e368fd7981abbf8cd79f4f1c05170b3d1c4",
+      "smc.reference.icon.3xl": "9df9bb6af4845ba0084a384cc8f17ea0d24d221b",
+      "smc.reference.icon.4xl": "b541d136e20ba132fe1ee51b3fdef8139e29acdc"
     }
   },
   {
