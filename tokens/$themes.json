@@ -1244,7 +1244,6 @@
       "smc.reference.page.color.bg.light.darker-95": "3b34781cd92b6272d71d01ce13a4eda72b3a984e",
       "smc.reference.page.color.bg.light.darker-100": "2a0e1555aa1fe3f1ab7408be35ebd5ba56a7d9f8",
       "smc.reference.typography.font-family.default": "30f8cde557cfc53036789821e4d51d10882cabdb",
-      "smc.reference.typography.font-family.font-icon-default": "25c02d015b71620084fcbf8da9f95526e3421889",
       "smc.reference.typography.font-size.8": "6a91ecaac2d37467566743c920d78396db301886",
       "smc.reference.typography.font-size.10": "b55b2e9ac5dcd7d8d0e7e4986350adaca044d46a",
       "smc.reference.typography.font-size.12": "ed47c328b8c5a9bc1b77fc53764adfa87cc6af29",
@@ -1256,6 +1255,8 @@
       "smc.reference.typography.font-size.24": "232e01312442458c8140aab782533094803c1c5f",
       "smc.reference.typography.font-size.28": "be223be3424594af0ae387945b6db9616a34f7a2",
       "smc.reference.typography.font-size.32": "89e68cc1e635b5a91140c14dc39c63d2b1b7260f",
+      "smc.reference.typography.font-size.36": "df30644368eb08b1a555ca5ea648cc9d55f5e61e",
+      "smc.reference.typography.font-size.40": "1969f5ff25b2a67cb3da4f49ac5cd00e6cd9f0b8",
       "smc.reference.typography.font-size.48": "7fc1224f9c77425a042b5747b546e8438a86721a",
       "smc.reference.typography.font-size.72": "7e110eed1aaa010723527e1c58cbf12276eb78ad",
       "smc.reference.typography.line-height.10": "70e6d2e53623d9cba93ce81ac668aa38663e8501",
@@ -1268,6 +1269,8 @@
       "smc.reference.typography.line-height.28": "290dc011b50dd5d7338662a7884689b50afc1854",
       "smc.reference.typography.line-height.32": "04ad0dbf09ac77979f4993780c404044b829b07d",
       "smc.reference.typography.line-height.36": "b38b5de15316cedb93fa0be83792376dd3f38264",
+      "smc.reference.typography.line-height.40": "db6341ee498f2f35cefeff03f3c675ca351485e0",
+      "smc.reference.typography.line-height.44": "39c11e6d6bac15c801330d6cda5de872999f2cf1",
       "smc.reference.typography.line-height.48": "197c6d4491e64af243a02282320a3788dd8a8837",
       "smc.reference.typography.line-height.72": "07d0b863b80727c72d12b88af43391a3ad97970a",
       "smc.reference.typography.font-weight.Thin": "2f65103b768183e8421dc368a43eff494b767a6a",
@@ -1296,7 +1299,10 @@
       "smc.reference.icon.md": "a9f5afd9ae8c610d1422338ea520c758c505f85f",
       "smc.reference.icon.lg": "58a9cf8c3273ff6a9e13d0133fa0a4fd89ae86ab",
       "smc.reference.icon.xl": "3e9cee2e0d3cb6b9aacfc773f1a10f56edddffe8",
-      "smc.reference.icon.2xs": "b60c30bed7d93f427701c6ecc528c2cc0e94f029"
+      "smc.reference.icon.2xs": "b60c30bed7d93f427701c6ecc528c2cc0e94f029",
+      "smc.reference.icon.2xl": "a456cda53f03bf9757914e3e8262c1cbaba71605",
+      "smc.reference.icon.3xl": "025bac5c1bae25c8a5c3ff182c210e6d2c134aef",
+      "smc.reference.icon.4xl": "2ef65e657fdd9fdf2c426f2f6b8b9318919c970d"
     }
   },
   {
