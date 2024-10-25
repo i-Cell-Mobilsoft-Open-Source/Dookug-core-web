@@ -1210,6 +1210,8 @@
       "smc.reference.typography.font-size.24": "7a97ce5b9ac7aee0432755efe6306b5483d571de",
       "smc.reference.typography.font-size.28": "855721c8a80a436c9ef5688e32f1c9cd18cff38c",
       "smc.reference.typography.font-size.32": "cfd3543bf1d1b8cafe05eac4412226b42a72e705",
+      "smc.reference.typography.font-size.36": "967edc5932da79e2c08cb05f46af8dc2e5814765",
+      "smc.reference.typography.font-size.40": "010f28548a99f2f10eb5bdd0a66c4edb97566c67",
       "smc.reference.typography.font-size.48": "46ebd39142b49189f54b3e5b60f4184c37e403e4",
       "smc.reference.typography.font-size.72": "5ce511a97b203b76d3099c776283da392f3e454e",
       "smc.reference.typography.line-height.10": "34005c2898e0f78963c17e9379e37dab3384203f",
@@ -1222,6 +1224,8 @@
       "smc.reference.typography.line-height.28": "593e4042f5655622291f9eb73b495cd9400a0c18",
       "smc.reference.typography.line-height.32": "c7f85323e5328ec3017366eed46ed0c5a25664cc",
       "smc.reference.typography.line-height.36": "024d9e89decee4e6fe05a1dc23333a2b8eef958c",
+      "smc.reference.typography.line-height.40": "d57471822f66a53b9259a24f69f7a989912142c2",
+      "smc.reference.typography.line-height.44": "82498950c869bb546e5e08bb4c34a6c1f494a469",
       "smc.reference.typography.line-height.48": "40a8de8dddddaeb63ea3603e5b469cdae1ccdd6a",
       "smc.reference.typography.line-height.72": "893e77d046498a56d4e83eed9ceeb4fec148d84c",
       "smc.reference.typography.font-weight.Thin": "93d8ae2739be5b33c992ff3d8921e9d77d9dcf0e",
@@ -1241,6 +1245,8 @@
       "smc.reference.typography.letter-spacing.loose": "faa474ff74d843c5940431692dab53288a3f2a52",
       "smc.reference.typography.letter-spacing.looser": "224b65009ccfe79c06fc06218189a0aa29900b7e",
       "smc.reference.typography.letter-spacing.loosest": "997830f5d7197482b46413e6dc7df2b01899f26e",
+      "smc.reference.typography.iconset.default": "9fae98dadfc7e51633164faf8a69f082f5c5d761",
+      "smc.reference.typography.iconset.custom": "5728bd6fa552d1cb84b98fd64314013d4b7a7ccb",
       "smc.reference.icon.none": "0a50681711fd4f427de3ed33d764c0fd8298d26e",
       "smc.reference.icon.3xs": "bda3a2f9f511bd01a502a8c0ab59b3603994d734",
       "smc.reference.icon.xs": "3cea7008d2e457fd26aef5ed5ff33cadfc384526",
@@ -1248,7 +1254,10 @@
       "smc.reference.icon.md": "25859b4ff88fb93618ff8e66d1ad6e9f5b722631",
       "smc.reference.icon.lg": "21caad1f085da9b4df01f831ee7ba41971f7f024",
       "smc.reference.icon.xl": "0e5ee1a4ae8a74f83a138d6d27c00d136ed6181c",
-      "smc.reference.icon.2xs": "d2477e34f510285ad9e496fa4ed9702972be65c5"
+      "smc.reference.icon.2xs": "d2477e34f510285ad9e496fa4ed9702972be65c5",
+      "smc.reference.icon.2xl": "b3cfa259acf2ae2fbb928485b7bca2ac7bb6022f",
+      "smc.reference.icon.3xl": "15db18233ac2aa7771e56619b13a9238cf558188",
+      "smc.reference.icon.4xl": "8bc4644c0ed2d97679f7889d10bdc1568f06fce4"
     }
   },
   {
