@@ -25,6 +25,26 @@
               "type": "number"
             }
           },
+          "icon": {
+            "typography": {
+              "font-family": {
+                "value": "{smc.reference.typography.iconset.default}",
+                "type": "text"
+              },
+              "font-size": {
+                "value": "{smc.reference.typography.font-size.20}",
+                "type": "number"
+              },
+              "line-height": {
+                "value": "{smc.reference.typography.line-height.20}",
+                "type": "number"
+              },
+              "font-weight": {
+                "value": "{smc.reference.typography.font-weight.Regular}",
+                "type": "number"
+              }
+            }
+          },
           "size": {
             "padding-x": {
               "value": "{smc.reference.container.padding.2}",
@@ -59,26 +79,6 @@
             "size": {
               "outline": {
                 "value": "{smc.reference.container.focused-outline.size.default}",
-                "type": "number"
-              }
-            }
-          },
-          "icon": {
-            "typography": {
-              "font-family": {
-                "value": "{smc.reference.typography.iconset.default}",
-                "type": "text"
-              },
-              "font-size": {
-                "value": "{smc.reference.typography.font-size.20}",
-                "type": "number"
-              },
-              "line-height": {
-                "value": "{smc.reference.typography.line-height.20}",
-                "type": "number"
-              },
-              "font-weight": {
-                "value": "{smc.reference.typography.font-weight.Regular}",
                 "type": "number"
               }
             }

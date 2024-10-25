@@ -10,12 +10,6 @@
                   "value": "{smc.reference.container.focused-outline.color.dark.default}",
                   "type": "color"
                 }
-              },
-              "light": {
-                "focused": {
-                  "value": "{smc.reference.container.focused-outline.color.light.default}",
-                  "type": "color"
-                }
               }
             }
           },
