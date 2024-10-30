@@ -197,6 +197,22 @@
               "type": "number"
             }
           }
+        },
+        "group": {
+          "size": {
+            "gap": {
+              "value": "{smc.reference.container.gap.8}",
+              "type": "number"
+            },
+            "padding-y": {
+              "value": "{smc.reference.container.padding.none}",
+              "type": "number"
+            },
+            "padding-x": {
+              "value": "{smc.reference.container.padding.none}",
+              "type": "number"
+            }
+          }
         }
       },
       "forms": {
