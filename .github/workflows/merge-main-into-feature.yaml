@@ -37,7 +37,7 @@ jobs:
             echo "Merging tokens directory from main into $branch_name"
             
             # Check out the remote branch
-            git checkout -b $branch_name:$branch_name origin/$branch_name
+            git checkout -b $branch_name origin/$branch_name
             
             # Pull the latest changes for the branch to ensure it's up to date
             git pull origin $branch_name
