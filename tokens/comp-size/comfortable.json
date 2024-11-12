@@ -101,6 +101,14 @@
             "gap": {
               "value": "{smc.reference.container.gap.12}",
               "type": "number"
+            },
+            "row-gap": {
+              "value": "{smc.reference.container.gap.12}",
+              "type": "number"
+            },
+            "column-gap": {
+              "value": "{smc.reference.container.gap.12}",
+              "type": "number"
             }
           }
         }
