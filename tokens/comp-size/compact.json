@@ -277,6 +277,30 @@
               }
             }
           }
+        },
+        "input": {
+          "size": {
+            "gap": {
+              "value": "{smc.reference.container.gap.16}",
+              "type": "number"
+            }
+          }
+        },
+        "select": {
+          "size": {
+            "gap": {
+              "value": "{smc.reference.container.gap.16}",
+              "type": "number"
+            }
+          }
+        },
+        "textarea": {
+          "size": {
+            "gap": {
+              "value": "{smc.reference.container.gap.16}",
+              "type": "number"
+            }
+          }
         }
       }
     }
