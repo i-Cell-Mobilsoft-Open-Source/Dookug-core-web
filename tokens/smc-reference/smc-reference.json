@@ -291,7 +291,7 @@
               },
               "variant": {
                 "lighter-30": {
-                  "value": "{smc.colors.surface.variant.lighter-30}",
+                  "value": "#ffffff",
                   "type": "color"
                 }
               }
