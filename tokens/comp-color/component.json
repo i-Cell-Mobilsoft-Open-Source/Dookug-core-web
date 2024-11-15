@@ -310,6 +310,52 @@
                             "type": "color"
                           }
                         }
+                      },
+                      "icon": {
+                        "surface": {
+                          "default": {
+                            "value": "{smc.reference.forms.color.fg.text.surface.default}",
+                            "type": "color"
+                          },
+                          "hovered": {
+                            "value": "{smc.reference.forms.color.fg.text.surface.hovered}",
+                            "type": "color"
+                          },
+                          "focused": {
+                            "value": "{smc.reference.forms.color.fg.text.surface.focused}",
+                            "type": "color"
+                          },
+                          "pressed": {
+                            "value": "{smc.reference.forms.color.fg.text.surface.pressed}",
+                            "type": "color"
+                          },
+                          "disabled": {
+                            "value": "{smc.reference.forms.color.fg.text.surface.disabled}",
+                            "type": "color"
+                          }
+                        },
+                        "light": {
+                          "default": {
+                            "value": "{smc.reference.forms.color.fg.text.light.default}",
+                            "type": "color"
+                          },
+                          "hovered": {
+                            "value": "{smc.reference.forms.color.fg.text.light.hovered}",
+                            "type": "color"
+                          },
+                          "focused": {
+                            "value": "{smc.reference.forms.color.fg.text.light.focused}",
+                            "type": "color"
+                          },
+                          "pressed": {
+                            "value": "{smc.reference.forms.color.fg.text.light.pressed}",
+                            "type": "color"
+                          },
+                          "disabled": {
+                            "value": "{smc.reference.forms.color.fg.text.light.disabled}",
+                            "type": "color"
+                          }
+                        }
                       }
                     }
                   }
@@ -318,6 +364,52 @@
                   "color": {
                     "fg": {
                       "text": {
+                        "surface": {
+                          "default": {
+                            "value": "{smc.reference.container.color.fg.surface.darker-40}",
+                            "type": "color"
+                          },
+                          "hovered": {
+                            "value": "{smc.reference.container.color.fg.surface.darker-60}",
+                            "type": "color"
+                          },
+                          "focused": {
+                            "value": "{smc.reference.container.color.fg.surface.darker-60}",
+                            "type": "color"
+                          },
+                          "pressed": {
+                            "value": "{smc.reference.container.color.fg.surface.darker-40}",
+                            "type": "color"
+                          },
+                          "disabled": {
+                            "value": "{smc.reference.container.color.fg.surface.darker-40}",
+                            "type": "color"
+                          }
+                        },
+                        "light": {
+                          "default": {
+                            "value": "{smc.reference.container.color.fg.light.transparent.500}",
+                            "type": "color"
+                          },
+                          "hovered": {
+                            "value": "{smc.reference.container.color.fg.light.transparent.500}",
+                            "type": "color"
+                          },
+                          "focused": {
+                            "value": "{smc.reference.container.color.fg.light.transparent.500}",
+                            "type": "color"
+                          },
+                          "pressed": {
+                            "value": "{smc.reference.container.color.fg.light.transparent.500}",
+                            "type": "color"
+                          },
+                          "disabled": {
+                            "value": "{smc.reference.container.color.fg.light.transparent.500}",
+                            "type": "color"
+                          }
+                        }
+                      },
+                      "icon": {
                         "surface": {
                           "default": {
                             "value": "{smc.reference.container.color.fg.surface.darker-40}",
