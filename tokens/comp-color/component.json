@@ -222,23 +222,23 @@
               "bg": {
                 "surface": {
                   "default": {
-                    "value": "{smc.reference.container.color.bg.primary.default}",
+                    "value": "{smc.reference.forms.color.bg.primary.default}",
                     "type": "color"
                   },
                   "hovered": {
-                    "value": "{smc.reference.container.color.bg.primary.darker-20}",
+                    "value": "{smc.reference.forms.color.bg.primary.hovered}",
                     "type": "color"
                   },
                   "focused": {
-                    "value": "{smc.reference.container.color.bg.primary.default}",
+                    "value": "{smc.reference.forms.color.bg.primary.focused}",
                     "type": "color"
                   },
                   "pressed": {
-                    "value": "{smc.reference.container.color.bg.primary.darker-30}",
+                    "value": "{smc.reference.forms.color.bg.primary.pressed}",
                     "type": "color"
                   },
                   "disabled": {
-                    "value": "{smc.reference.forms.color.bg.surface.disabled}",
+                    "value": "{smc.reference.forms.color.bg.primary.disabled}",
                     "type": "color"
                   }
                 },
