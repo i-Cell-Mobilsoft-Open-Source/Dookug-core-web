@@ -4525,67 +4525,67 @@
             "fg": {
               "surface": {
                 "default": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.default}",
+                  "value": "#64748b",
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.hovered}",
+                  "value": "#cbd5e1",
                   "type": "color"
                 },
                 "focused": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.focused}",
+                  "value": "#cbd5e1",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.pressed}",
+                  "value": "#cbd5e1",
                   "type": "color"
                 },
                 "disabled": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.disabled}",
+                  "value": "#475569",
                   "type": "color"
                 }
               },
               "light": {
                 "default": {
-                  "value": "{smc.reference.forms.color.fg.text.light.default}",
+                  "value": "#020617",
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.forms.color.fg.text.light.hovered}",
+                  "value": "#000000",
                   "type": "color"
                 },
                 "focused": {
-                  "value": "{smc.reference.forms.color.fg.text.light.focused}",
+                  "value": "#000000",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{smc.reference.forms.color.fg.text.light.pressed}",
+                  "value": "#020617",
                   "type": "color"
                 },
                 "disabled": {
-                  "value": "{smc.reference.forms.color.fg.text.light.disabled}",
+                  "value": "#648cb480",
                   "type": "color"
                 }
               },
               "dark": {
                 "default": {
-                  "value": "{smc.reference.forms.color.fg.text.dark.default}",
+                  "value": "#f8fafc",
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.forms.color.fg.text.dark.hovered}",
+                  "value": "#f8fafc",
                   "type": "color"
                 },
                 "focused": {
-                  "value": "{smc.reference.forms.color.fg.text.dark.focused}",
+                  "value": "#f8fafc",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{smc.reference.forms.color.fg.text.dark.pressed}",
+                  "value": "#f8fafc",
                   "type": "color"
                 },
                 "disabled": {
-                  "value": "{smc.reference.forms.color.fg.text.dark.disabled}",
+                  "value": "#475569",
                   "type": "color"
                 }
               }
