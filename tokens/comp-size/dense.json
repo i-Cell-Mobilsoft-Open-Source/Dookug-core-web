@@ -49,6 +49,10 @@
             "border-radius": {
               "value": "{smc.reference.container.border-radius.full}",
               "type": "number"
+            },
+            "min-height": {
+              "value": "{smc.reference.container.size.height.40}",
+              "type": "number"
             }
           },
           "icon": {
