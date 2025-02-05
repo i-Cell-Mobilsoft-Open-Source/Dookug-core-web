@@ -83,6 +83,94 @@
               "type": "number"
             }
           }
+        },
+        "horizontal": {
+          "size": {
+            "padding-x": {
+              "value": "{smc.reference.container.padding.16}",
+              "type": "number"
+            },
+            "padding-y": {
+              "value": "{smc.reference.container.padding.16}",
+              "type": "number"
+            },
+            "border-radius": {
+              "value": "{smc.reference.container.border-radius.md}",
+              "type": "number"
+            },
+            "gap": {
+              "value": "{smc.reference.container.gap.16}",
+              "type": "number"
+            },
+            "icon": {
+              "value": "{smc.reference.container.icon-nested.lg}",
+              "type": "number"
+            },
+            "height": {
+              "value": "{smc.reference.container.size.height.56}",
+              "type": "number"
+            },
+            "border-width": {
+              "value": "{smc.reference.container.border-width.sm}",
+              "type": "number"
+            }
+          },
+          "active-indicator": {
+            "size": {
+              "border-radius": {
+                "value": "{smc.reference.container.border-radius.none}",
+                "type": "number"
+              },
+              "height": {
+                "value": "{smc.reference.container.size.height.2}",
+                "type": "number"
+              }
+            }
+          }
+        },
+        "vertical": {
+          "active-indicator": {
+            "size": {
+              "border-radius": {
+                "value": "{smc.reference.container.border-radius.none}",
+                "type": "number"
+              },
+              "width": {
+                "value": "{smc.reference.container.size.height.2}",
+                "type": "number"
+              }
+            }
+          },
+          "size": {
+            "padding-x": {
+              "value": "{smc.reference.container.padding.16}",
+              "type": "number"
+            },
+            "padding-y": {
+              "value": "{smc.reference.container.padding.16}",
+              "type": "number"
+            },
+            "gap": {
+              "value": "{smc.reference.container.gap.16}",
+              "type": "number"
+            },
+            "border-radius": {
+              "value": "{smc.reference.container.border-radius.md}",
+              "type": "number"
+            },
+            "icon": {
+              "value": "{smc.reference.container.icon-nested.lg}",
+              "type": "number"
+            },
+            "height": {
+              "value": "{smc.reference.container.size.height.56}",
+              "type": "number"
+            },
+            "border-width": {
+              "value": "{smc.reference.container.border-width.sm}",
+              "type": "number"
+            }
+          }
         }
       }
     }
