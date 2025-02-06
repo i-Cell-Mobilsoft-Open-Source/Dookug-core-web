@@ -256,6 +256,56 @@
                           "value": "{smc.reference.container.focused-outline.color.light.default}",
                           "type": "color"
                         }
+                      },
+                      "leading-icon": {
+                        "color": {
+                          "fg": {
+                            "surface": {
+                              "default": {
+                                "value": "{smc.reference.forms.color.fg.icon.surface.default}",
+                                "type": "color"
+                              },
+                              "hovered": {
+                                "value": "{smc.reference.forms.color.fg.icon.surface.hovered}",
+                                "type": "color"
+                              },
+                              "focused": {
+                                "value": "{smc.reference.forms.color.fg.icon.surface.focused}",
+                                "type": "color"
+                              },
+                              "disabled": {
+                                "value": "{smc.reference.forms.color.fg.icon.surface.disabled}",
+                                "type": "color"
+                              },
+                              "pressed": {
+                                "value": "{smc.reference.forms.color.fg.icon.surface.pressed}",
+                                "type": "color"
+                              }
+                            },
+                            "light": {
+                              "default": {
+                                "value": "{smc.reference.forms.color.fg.icon.light.default}",
+                                "type": "color"
+                              },
+                              "hovered": {
+                                "value": "{smc.reference.forms.color.fg.icon.light.hovered}",
+                                "type": "color"
+                              },
+                              "focused": {
+                                "value": "{smc.reference.forms.color.fg.icon.light.focused}",
+                                "type": "color"
+                              },
+                              "disabled": {
+                                "value": "{smc.reference.forms.color.fg.icon.light.disabled}",
+                                "type": "color"
+                              },
+                              "pressed": {
+                                "value": "{smc.reference.forms.color.fg.icon.light.pressed}",
+                                "type": "color"
+                              }
+                            }
+                          }
+                        }
                       }
                     }
                   }
@@ -775,6 +825,24 @@
                         "value": "{smc.reference.forms.label.color.fg.light.default}",
                         "type": "color"
                       }
+                    }
+                  }
+                }
+              }
+            },
+            "select-panel": {
+              "color": {
+                "bg": {
+                  "surface": {
+                    "default": {
+                      "value": "{smc.reference.container.color.bg.surface.default}",
+                      "type": "color"
+                    }
+                  },
+                  "light": {
+                    "default": {
+                      "value": "{smc.reference.container.color.bg.light.default}",
+                      "type": "color"
                     }
                   }
                 }
