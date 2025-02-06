@@ -1,7 +1,7 @@
 {
   "comp": {
     "size": {
-      "menu-item": {
+      "badge": {
         "label": {
           "typography": {
             "font-family": {
@@ -9,15 +9,15 @@
               "type": "text"
             },
             "font-size": {
-              "value": "{smc.reference.typography.font-size.16}",
+              "value": "{smc.reference.typography.font-size.14}",
               "type": "number"
             },
             "line-height": {
-              "value": "{smc.reference.typography.line-height.20}",
+              "value": "{smc.reference.typography.line-height.16}",
               "type": "number"
             },
             "font-weight": {
-              "value": "{smc.reference.typography.font-weight.Regular}",
+              "value": "{smc.reference.typography.font-weight.Medium}",
               "type": "number"
             },
             "letter-spacing": {
@@ -33,11 +33,11 @@
               "type": "text"
             },
             "font-size": {
-              "value": "{smc.reference.typography.font-size.24}",
+              "value": "{smc.reference.typography.font-size.12}",
               "type": "number"
             },
             "line-height": {
-              "value": "{smc.reference.typography.line-height.24}",
+              "value": "{smc.reference.typography.line-height.12}",
               "type": "number"
             },
             "font-weight": {
@@ -48,27 +48,31 @@
         },
         "size": {
           "padding-x": {
-            "value": "{smc.reference.container.padding.8}",
+            "value": "{smc.reference.container.padding.4}",
             "type": "number"
           },
           "padding-y": {
-            "value": "{smc.reference.container.padding.8}",
+            "value": "{smc.reference.container.padding.4}",
             "type": "number"
           },
           "border-radius": {
-            "value": "{smc.reference.container.border-radius.xs}",
+            "value": "{smc.reference.container.border-radius.full}",
+            "type": "number"
+          },
+          "icon": {
+            "value": "{smc.reference.container.icon-nested.2xs}",
+            "type": "number"
+          },
+          "height": {
+            "value": "{smc.reference.container.size.height.16}",
+            "type": "number"
+          },
+          "min-width": {
+            "value": "{smc.reference.container.size.height.16}",
             "type": "number"
           },
           "gap": {
             "value": "{smc.reference.container.gap.8}",
-            "type": "number"
-          },
-          "icon": {
-            "value": "{smc.reference.container.icon-nested.md}",
-            "type": "number"
-          },
-          "height": {
-            "value": "{smc.reference.container.size.height.44}",
             "type": "number"
           },
           "border-width": {
@@ -76,98 +80,22 @@
             "type": "number"
           }
         },
-        "focused-outline": {
+        "noElement": {
           "size": {
-            "outline": {
-              "value": "{smc.reference.container.focused-outline.size.default}",
-              "type": "number"
-            }
-          }
-        },
-        "horizontal": {
-          "size": {
-            "padding-x": {
-              "value": "{smc.reference.container.padding.8}",
-              "type": "number"
-            },
-            "padding-y": {
-              "value": "{smc.reference.container.padding.8}",
-              "type": "number"
-            },
             "border-radius": {
-              "value": "{smc.reference.container.border-radius.xs}",
-              "type": "number"
-            },
-            "gap": {
-              "value": "{smc.reference.container.gap.8}",
-              "type": "number"
-            },
-            "icon": {
-              "value": "{smc.reference.container.icon-nested.md}",
-              "type": "number"
-            },
-            "height": {
-              "value": "{smc.reference.container.size.height.44}",
+              "value": "{smc.reference.container.border-radius.full}",
               "type": "number"
             },
             "border-width": {
               "value": "{smc.reference.container.border-width.sm}",
               "type": "number"
-            }
-          },
-          "active-indicator": {
-            "size": {
-              "border-radius": {
-                "value": "{smc.reference.container.border-radius.none}",
-                "type": "number"
-              },
-              "height": {
-                "value": "{smc.reference.container.size.height.2}",
-                "type": "number"
-              }
-            }
-          }
-        },
-        "vertical": {
-          "active-indicator": {
-            "size": {
-              "border-radius": {
-                "value": "{smc.reference.container.border-radius.none}",
-                "type": "number"
-              },
-              "width": {
-                "value": "{smc.reference.container.size.height.2}",
-                "type": "number"
-              }
-            }
-          },
-          "size": {
-            "padding-x": {
-              "value": "{smc.reference.container.padding.8}",
-              "type": "number"
             },
-            "padding-y": {
-              "value": "{smc.reference.container.padding.8}",
-              "type": "number"
-            },
-            "gap": {
-              "value": "{smc.reference.container.gap.8}",
-              "type": "number"
-            },
-            "border-radius": {
-              "value": "{smc.reference.container.border-radius.xs}",
-              "type": "number"
-            },
-            "icon": {
-              "value": "{smc.reference.container.icon-nested.md}",
+            "width": {
+              "value": "{smc.reference.container.size.height.6}",
               "type": "number"
             },
             "height": {
-              "value": "{smc.reference.container.size.height.44}",
-              "type": "number"
-            },
-            "border-width": {
-              "value": "{smc.reference.container.border-width.sm}",
+              "value": "{smc.reference.container.size.height.6}",
               "type": "number"
             }
           }
