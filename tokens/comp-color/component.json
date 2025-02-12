@@ -1,0 +1,86 @@
+{
+  "comp": {
+    "color": {
+      "popover": {
+        "color": {
+          "bg": {
+            "light": {
+              "default": {
+                "value": "{smc.reference.container.color.bg.light.fixed.default}",
+                "type": "color"
+              }
+            },
+            "dark": {
+              "default": {
+                "value": "{smc.reference.container.color.bg.dark.default}",
+                "type": "color"
+              }
+            },
+            "surface": {
+              "default": {
+                "value": "{smc.reference.container.color.bg.surface.darker-10}",
+                "type": "color"
+              }
+            },
+            "primary": {
+              "default": {
+                "value": "{smc.reference.container.color.bg.primary.default}",
+                "type": "color"
+              }
+            },
+            "secondary": {
+              "default": {
+                "value": "{smc.reference.container.color.bg.secondary.default}",
+                "type": "color"
+              }
+            },
+            "highlight": {
+              "default": {
+                "value": "{smc.reference.container.color.bg.highlight.default}",
+                "type": "color"
+              }
+            }
+          },
+          "fg": {
+            "light": {
+              "default": {
+                "value": "{smc.reference.container.color.fg.light.fixed.default}",
+                "type": "color"
+              }
+            },
+            "dark": {
+              "default": {
+                "value": "{smc.reference.container.color.fg.dark.default}",
+                "type": "color"
+              }
+            },
+            "surface": {
+              "default": {
+                "value": "{smc.reference.container.color.fg.surface.darker-60}",
+                "type": "color"
+              }
+            },
+            "primary": {
+              "default": {
+                "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                "type": "color"
+              }
+            },
+            "secondary": {
+              "default": {
+                "value": "{smc.reference.container.color.fg.surface.lighter-10}",
+                "type": "color"
+              }
+            },
+            "highlight": {
+              "default": {
+                "value": "{smc.reference.container.color.fg.light.fixed.default}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
