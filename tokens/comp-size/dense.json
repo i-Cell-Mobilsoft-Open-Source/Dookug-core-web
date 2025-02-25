@@ -22,7 +22,7 @@
                 "type": "number"
               },
               "gap": {
-                "value": "{smc.reference.container.gap.24}",
+                "value": "{smc.reference.container.gap.8}",
                 "type": "number"
               }
             }
@@ -46,7 +46,7 @@
                 "type": "number"
               },
               "gap": {
-                "value": "{smc.reference.container.gap.none}",
+                "value": "{smc.reference.container.gap.8}",
                 "type": "number"
               }
             }
@@ -55,15 +55,15 @@
         "slot": {
           "size": {
             "padding-x": {
-              "value": "{smc.reference.container.padding.24}",
+              "value": "{smc.reference.container.padding.8}",
               "type": "number"
             },
             "padding-bottom": {
-              "value": "{smc.reference.container.padding.24}",
+              "value": "{smc.reference.container.padding.8}",
               "type": "number"
             },
             "padding-top": {
-              "value": "{smc.reference.container.padding.24}",
+              "value": "{smc.reference.container.padding.8}",
               "type": "number"
             },
             "padding-none": {
