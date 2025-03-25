@@ -1,0 +1,50 @@
+{
+  "comp": {
+    "size": {
+      "spinner": {
+        "active-indicator": {
+          "smallCollection": {
+            "size": {
+              "border-radius": {
+                "value": "{smc.reference.container.border-radius.full}",
+                "type": "number"
+              }
+            }
+          },
+          "bigCollection": {
+            "size": {
+              "border-radius": {
+                "value": "{smc.reference.container.border-radius.full}",
+                "type": "number"
+              }
+            }
+          }
+        },
+        "bigCollection": {
+          "size": {
+            "width": {
+              "value": "{smc.reference.container.size.width.56}",
+              "type": "number"
+            },
+            "height": {
+              "value": "{smc.reference.container.size.height.56}",
+              "type": "number"
+            }
+          }
+        },
+        "smallCollection": {
+          "size": {
+            "width": {
+              "value": "{smc.reference.container.size.width.24}",
+              "type": "number"
+            },
+            "height": {
+              "value": "{smc.reference.container.size.height.24}",
+              "type": "number"
+            }
+          }
+        }
+      }
+    }
+  }
+}
