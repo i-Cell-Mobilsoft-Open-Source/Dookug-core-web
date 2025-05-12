@@ -133,6 +133,14 @@
             "value": "{smc.reference.container.padding.16}",
             "type": "number"
           }
+        },
+        "focused-outline": {
+          "size": {
+            "outline": {
+              "value": "{smc.reference.container.focused-outline.size.default}",
+              "type": "number"
+            }
+          }
         }
       }
     }

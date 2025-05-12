@@ -329,6 +329,14 @@
               }
             }
           }
+        },
+        "focused-outline": {
+          "color": {
+            "dark": {
+              "value": "{smc.reference.container.focused-outline.color.dark.default}",
+              "type": "color"
+            }
+          }
         }
       }
     }
