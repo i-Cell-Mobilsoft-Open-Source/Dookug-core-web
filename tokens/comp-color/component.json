@@ -300,23 +300,31 @@
                 }
               }
             }
-          },
-          "preview": {
-            "color": {
-              "bg": {
-                "surface": {
-                  "default": {
-                    "value": "{smc.reference.container.color.bg.surface.transparent.100}",
-                    "type": "color"
-                  }
+          }
+        },
+        "calendar-days": {
+          "color": {
+            "bg": {
+              "surface": {
+                "default": {
+                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
+                  "type": "color"
                 }
-              },
-              "border": {
-                "surface": {
-                  "default": {
-                    "value": "{smc.reference.container.color.border.surface.transparent.0}",
-                    "type": "color"
-                  }
+              }
+            },
+            "fg": {
+              "surface": {
+                "default": {
+                  "value": "{smc.reference.container.color.fg.surface.darker-50}",
+                  "type": "color"
+                }
+              }
+            },
+            "border": {
+              "surface": {
+                "default": {
+                  "value": "{smc.reference.container.color.border.surface.transparent.0}",
+                  "type": "color"
                 }
               }
             }
