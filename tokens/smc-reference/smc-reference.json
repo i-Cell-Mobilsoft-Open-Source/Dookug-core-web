@@ -137,6 +137,10 @@
                 "value": "{smc.colors.opacity.dark-cool.variant.default}",
                 "type": "color"
               }
+            },
+            "backdrop-percentage": {
+              "value": "{base.percentage.1000}",
+              "type": "number"
             }
           },
           "bg": {
