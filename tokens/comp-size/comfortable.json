@@ -6,11 +6,11 @@
           "vertical": {
             "size": {
               "border-radius": {
-                "value": "{smc.reference.container.border-radius.lg}",
+                "value": "{smc.reference.container.border-radius.xs}",
                 "type": "number"
               },
               "border-width": {
-                "value": "{smc.reference.container.border-width.md}",
+                "value": "{smc.reference.container.border-width.sm}",
                 "type": "number"
               },
               "padding-x": {
@@ -30,11 +30,11 @@
           "horizontal": {
             "size": {
               "border-radius": {
-                "value": "{smc.reference.container.border-radius.lg}",
+                "value": "{smc.reference.container.border-radius.xs}",
                 "type": "number"
               },
               "border-width": {
-                "value": "{smc.reference.container.border-width.md}",
+                "value": "{smc.reference.container.border-width.sm}",
                 "type": "number"
               },
               "padding-x": {
@@ -46,7 +46,7 @@
                 "type": "number"
               },
               "gap": {
-                "value": "{smc.reference.container.gap.24}",
+                "value": "{smc.reference.container.gap.none}",
                 "type": "number"
               }
             }

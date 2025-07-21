@@ -23,19 +23,19 @@
             "bg": {
               "surface": {
                 "default": {
-                  "value": "{smc.reference.container.color.bg.surface.darker-10}",
+                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.container.color.bg.surface.darker-20}",
-                  "type": "color"
-                },
-                "focused": {
                   "value": "{smc.reference.container.color.bg.surface.darker-10}",
                   "type": "color"
                 },
+                "focused": {
+                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
+                  "type": "color"
+                },
                 "pressed": {
-                  "value": "{smc.reference.container.color.bg.surface.darker-30}",
+                  "value": "{smc.reference.container.color.bg.surface.darker-20}",
                   "type": "color"
                 },
                 "dragged": {
@@ -519,19 +519,19 @@
             "bg": {
               "surface": {
                 "default": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
+                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.container.color.opacity.states.cool-10}",
+                  "value": "{smc.reference.container.color.bg.surface.default}",
                   "type": "color"
                 },
                 "focused": {
-                  "value": "{smc.reference.container.color.opacity.states.cool-10}",
+                  "value": "{smc.reference.container.color.bg.surface.default}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{smc.reference.container.color.opacity.states.cool-20}",
+                  "value": "{smc.reference.container.color.bg.surface.darker-20}",
                   "type": "color"
                 },
                 "dragged": {
@@ -545,19 +545,19 @@
               },
               "primary": {
                 "default": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
+                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.container.color.opacity.states.cool-10}",
+                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
                   "type": "color"
                 },
                 "focused": {
-                  "value": "{smc.reference.container.color.opacity.states.cool-10}",
+                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{smc.reference.container.color.opacity.states.cool-20}",
+                  "value": "{smc.reference.container.color.bg.surface.lighter-10}",
                   "type": "color"
                 },
                 "dragged": {
@@ -769,7 +769,7 @@
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.container.color.border.surface.fixed.darker-30}",
+                  "value": "{smc.reference.container.color.border.surface.fixed.darker-40}",
                   "type": "color"
                 },
                 "focused": {
@@ -777,7 +777,7 @@
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{smc.reference.container.color.border.surface.fixed.darker-30}",
+                  "value": "{smc.reference.container.color.border.surface.fixed.darker-50}",
                   "type": "color"
                 },
                 "dragged": {
