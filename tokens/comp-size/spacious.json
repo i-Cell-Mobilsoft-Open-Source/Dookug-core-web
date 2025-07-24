@@ -154,7 +154,7 @@
               "type": "number"
             },
             "opacity": {
-              "value": "{smc.reference.container.color.opacity.backdrop}",
+              "value": "{smc.reference.container.color.opacity.backdrop-percentage}",
               "type": "number"
             }
           }
