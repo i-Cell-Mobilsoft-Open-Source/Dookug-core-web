@@ -8,11 +8,11 @@
             "type": "text"
           },
           "font-size": {
-            "value": "{smc.reference.typography.font-size.24}",
+            "value": "{smc.reference.typography.font-size.36}",
             "type": "number"
           },
           "line-height": {
-            "value": "{smc.reference.typography.line-height.24}",
+            "value": "{smc.reference.typography.line-height.36}",
             "type": "number"
           },
           "letter-spacing": {
