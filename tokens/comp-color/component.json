@@ -28,6 +28,16 @@
                 "type": "color"
               }
             }
+          },
+          "title": {
+            "color": {
+              "fg": {
+                "default": {
+                  "value": "{smc.reference.container.color.fg.surface.darker-95}",
+                  "type": "color"
+                }
+              }
+            }
           }
         },
         "content": {

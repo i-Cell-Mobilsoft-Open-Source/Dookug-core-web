@@ -66,130 +66,6 @@
             }
           }
         },
-        "container": {
-          "orientation": {
-            "left": {
-              "size": {
-                "padding-x": {
-                  "value": "{smc.reference.container.padding.24}",
-                  "type": "number"
-                },
-                "padding-y": {
-                  "value": "{smc.reference.container.padding.24}",
-                  "type": "number"
-                },
-                "border-width": {
-                  "value": "{smc.reference.container.border-width.none}",
-                  "type": "number"
-                },
-                "border-radius-left": {
-                  "value": "{smc.reference.container.border-radius.none}",
-                  "type": "number"
-                },
-                "gap": {
-                  "value": "{smc.reference.container.gap.24}",
-                  "type": "number"
-                },
-                "width": {
-                  "value": "{smc.reference.container.size.width.400}",
-                  "type": "number"
-                },
-                "min-height": {
-                  "value": "{smc.reference.container.size.height.256}",
-                  "type": "number"
-                },
-                "min-width": {
-                  "value": "{smc.reference.container.size.width.80}",
-                  "type": "number"
-                },
-                "max-width": {
-                  "value": "{smc.reference.container.size.width.400}",
-                  "type": "number"
-                },
-                "border-radius-right": {
-                  "value": "{smc.reference.container.border-radius.md}",
-                  "type": "number"
-                },
-                "border-radius": {
-                  "value": "{smc.reference.container.border-radius.none}",
-                  "type": "number"
-                },
-                "min-gap": {
-                  "value": "{smc.reference.container.gap.12}",
-                  "type": "number"
-                },
-                "min-padding-x": {
-                  "value": "{smc.reference.container.padding.12}",
-                  "type": "number"
-                },
-                "min-padding-y": {
-                  "value": "{smc.reference.container.padding.12}",
-                  "type": "number"
-                }
-              }
-            },
-            "right": {
-              "size": {
-                "padding-x": {
-                  "value": "{smc.reference.container.padding.24}",
-                  "type": "number"
-                },
-                "padding-y": {
-                  "value": "{smc.reference.container.padding.24}",
-                  "type": "number"
-                },
-                "gap": {
-                  "value": "{smc.reference.container.gap.24}",
-                  "type": "number"
-                },
-                "border-width": {
-                  "value": "{smc.reference.container.border-width.none}",
-                  "type": "number"
-                },
-                "border-radius": {
-                  "value": "{smc.reference.container.border-radius.none}",
-                  "type": "number"
-                },
-                "border-radius-left": {
-                  "value": "{smc.reference.container.border-radius.md}",
-                  "type": "number"
-                },
-                "border-radius-right": {
-                  "value": "{smc.reference.container.border-radius.none}",
-                  "type": "number"
-                },
-                "min-width": {
-                  "value": "{smc.reference.container.size.width.80}",
-                  "type": "number"
-                },
-                "width": {
-                  "value": "{smc.reference.container.size.width.400}",
-                  "type": "number"
-                },
-                "max-width": {
-                  "value": "{smc.reference.container.size.width.400}",
-                  "type": "number"
-                },
-                "min-height": {
-                  "value": "{smc.reference.container.size.height.256}",
-                  "type": "number"
-                },
-                "min-padding-x": {
-                  "value": "{smc.reference.container.padding.12}",
-                  "type": "number"
-                },
-                "min-padding-y": {
-                  "value": "{smc.reference.container.padding.12}",
-                  "type": "number"
-                },
-                "min-gap": {
-                  "value": "{smc.reference.container.gap.12}",
-                  "type": "number"
-                }
-              }
-            }
-          }
-        },
         "content": {
           "fixed": {
             "size": {
@@ -276,6 +152,68 @@
                   "value": "{smc.reference.container.color.opacity.backdrop-percentage}",
                   "type": "number"
                 }
+              }
+            }
+          }
+        },
+        "container": {
+          "orientation": {
+            "left": {
+              "size": {
+                "border-radius-left": {
+                  "value": "{smc.reference.container.border-radius.none}",
+                  "type": "number"
+                },
+                "border-radius-right": {
+                  "value": "{smc.reference.container.border-radius.md}",
+                  "type": "number"
+                }
+              }
+            },
+            "right": {
+              "size": {
+                "border-radius-left": {
+                  "value": "{smc.reference.container.border-radius.md}",
+                  "type": "number"
+                },
+                "border-radius-right": {
+                  "value": "{smc.reference.container.border-radius.none}",
+                  "type": "number"
+                }
+              }
+            },
+            "size": {
+              "padding-x": {
+                "value": "{smc.reference.container.padding.24}",
+                "type": "number"
+              },
+              "padding-y": {
+                "value": "{smc.reference.container.padding.24}",
+                "type": "number"
+              },
+              "gap": {
+                "value": "{smc.reference.container.gap.24}",
+                "type": "number"
+              },
+              "border-width": {
+                "value": "{smc.reference.container.border-width.none}",
+                "type": "number"
+              },
+              "border-radius": {
+                "value": "{smc.reference.container.border-radius.none}",
+                "type": "number"
+              },
+              "width": {
+                "value": "{smc.reference.container.size.width.320}",
+                "type": "number"
+              },
+              "max-width": {
+                "value": "{smc.reference.container.size.width.400}",
+                "type": "number"
+              },
+              "min-height": {
+                "value": "{smc.reference.container.size.height.256}",
+                "type": "number"
               }
             }
           }
