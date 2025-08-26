@@ -256,6 +256,10 @@
                   "border-radius": {
                     "value": "{smc.reference.container.border-radius.2xs}",
                     "type": "number"
+                  },
+                  "max-height": {
+                    "value": "{smc.reference.container.size.height.256}",
+                    "type": "number"
                   }
                 }
               }
