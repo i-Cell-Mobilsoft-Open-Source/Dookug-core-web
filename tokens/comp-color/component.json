@@ -149,67 +149,67 @@
             "fg": {
               "surface": {
                 "default": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.default}",
+                  "value": "{comp.color.forms.color.fg.text.surface.default}",
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.hovered}",
+                  "value": "{comp.color.forms.color.fg.text.surface.hovered}",
                   "type": "color"
                 },
                 "focused": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.focused}",
+                  "value": "{comp.color.forms.color.fg.text.surface.focused}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.pressed}",
+                  "value": "{comp.color.forms.color.fg.text.surface.pressed}",
                   "type": "color"
                 },
                 "disabled": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.disabled}",
+                  "value": "{comp.color.forms.color.fg.text.surface.disabled}",
                   "type": "color"
                 }
               },
               "light": {
                 "default": {
-                  "value": "{smc.reference.forms.color.fg.text.light.default}",
+                  "value": "{comp.color.forms.color.fg.text.light.default}",
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.forms.color.fg.text.light.hovered}",
+                  "value": "{comp.color.forms.color.fg.text.light.hovered}",
                   "type": "color"
                 },
                 "focused": {
-                  "value": "{smc.reference.forms.color.fg.text.light.focused}",
+                  "value": "{comp.color.forms.color.fg.text.light.focused}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{smc.reference.forms.color.fg.text.light.pressed}",
+                  "value": "{comp.color.forms.color.fg.text.light.pressed}",
                   "type": "color"
                 },
                 "disabled": {
-                  "value": "{smc.reference.forms.color.fg.text.light.disabled}",
+                  "value": "{comp.color.forms.color.fg.text.light.disabled}",
                   "type": "color"
                 }
               },
               "primary": {
                 "default": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.default}",
+                  "value": "{comp.color.forms.color.fg.text.surface.default}",
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.hovered}",
+                  "value": "{comp.color.forms.color.fg.text.surface.hovered}",
                   "type": "color"
                 },
                 "focused": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.focused}",
+                  "value": "{comp.color.forms.color.fg.text.surface.focused}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.pressed}",
+                  "value": "{comp.color.forms.color.fg.text.surface.pressed}",
                   "type": "color"
                 },
                 "disabled": {
-                  "value": "{smc.reference.forms.color.fg.text.surface.disabled}",
+                  "value": "{comp.color.forms.color.fg.text.surface.disabled}",
                   "type": "color"
                 }
               }

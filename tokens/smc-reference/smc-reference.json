@@ -131,13 +131,7 @@
               }
             },
             "backdrop": {
-              "default": {
-                "value": "{smc.colors.opacity.dark-cool.variant.default}",
-                "type": "color"
-              }
-            },
-            "backdrop-percentage": {
-              "value": "{base.percentage.1000}",
+              "value": "{base.percentage.250}",
               "type": "number"
             }
           },
@@ -293,10 +287,6 @@
                 "darker-90": {
                   "value": "{smc.colors.surface.fixed.darker-90}",
                   "type": "color"
-                },
-                "darker-100": {
-                  "value": "{smc.colors.surface.fixed.darker-100}",
-                  "type": "color"
                 }
               },
               "variant": {
@@ -304,14 +294,6 @@
                   "value": "{smc.colors.surface.variant.lighter-30}",
                   "type": "color"
                 }
-              },
-              "darker-40": {
-                "value": "{smc.colors.surface.darker-40}",
-                "type": "color"
-              },
-              "darker-60": {
-                "value": "{smc.colors.surface.darker-60}",
-                "type": "color"
               }
             },
             "primary": {
@@ -640,52 +622,6 @@
               "darker-10": {
                 "value": "{smc.colors.success.darker-10}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-50": {
-                  "value": "{smc.colors.success.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.success.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.success.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.success.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.success.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.success.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.success.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.success.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.success.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.success.fixed.darker-30}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.success.fixed.darker-40}",
-                  "type": "color"
-                }
               }
             },
             "error": {
@@ -732,52 +668,6 @@
               "darker-10": {
                 "value": "{smc.colors.error.darker-10}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-50": {
-                  "value": "{smc.colors.error.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.error.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.error.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.error.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.error.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.error.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.error.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.error.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.error.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.error.fixed.darker-30}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.error.fixed.darker-40}",
-                  "type": "color"
-                }
               }
             },
             "warning": {
@@ -824,52 +714,6 @@
               "darker-10": {
                 "value": "{smc.colors.warning.darker-10}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-50": {
-                  "value": "{smc.colors.warning.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.warning.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.warning.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.warning.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.warning.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.warning.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.warning.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.warning.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.warning.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.warning.fixed.darker-30}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.warning.fixed.darker-40}",
-                  "type": "color"
-                }
               }
             },
             "info": {
@@ -916,52 +760,6 @@
               "darker-10": {
                 "value": "{smc.colors.info.darker-10}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-50": {
-                  "value": "{smc.colors.info.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.info.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.info.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.info.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.info.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.info.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.info.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.info.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.info.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.info.fixed.darker-30}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.info.fixed.darker-40}",
-                  "type": "color"
-                }
               }
             },
             "disabled": {
@@ -1187,98 +985,6 @@
             "transparent": {
               "value": "{base.color.transparent}",
               "type": "color"
-            },
-            "highlight": {
-              "lighter-50": {
-                "value": "{smc.colors.highlight.lighter-50}",
-                "type": "color"
-              },
-              "lighter-40": {
-                "value": "{smc.colors.highlight.lighter-40}",
-                "type": "color"
-              },
-              "lighter-30": {
-                "value": "{smc.colors.highlight.lighter-30}",
-                "type": "color"
-              },
-              "lighter-20": {
-                "value": "{smc.colors.highlight.lighter-20}",
-                "type": "color"
-              },
-              "lighter-10": {
-                "value": "{smc.colors.highlight.lighter-10}",
-                "type": "color"
-              },
-              "default": {
-                "value": "{smc.colors.highlight.default}",
-                "type": "color"
-              },
-              "darker-10": {
-                "value": "{smc.colors.highlight.darker-10}",
-                "type": "color"
-              },
-              "darker-20": {
-                "value": "{smc.colors.highlight.darker-20}",
-                "type": "color"
-              },
-              "darker-30": {
-                "value": "{smc.colors.highlight.darker-30}",
-                "type": "color"
-              },
-              "darker-40": {
-                "value": "{smc.colors.highlight.darker-40}",
-                "type": "color"
-              },
-              "darker-50": {
-                "value": "{smc.colors.highlight.darker-50}",
-                "type": "color"
-              },
-              "fixed": {
-                "lighter-50": {
-                  "value": "{smc.colors.highlight.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.highlight.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.highlight.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.highlight.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.highlight.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.highlight.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.highlight.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.primary.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.primary.fixed.darker-30}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.primary.fixed.darker-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.primary.fixed.darker-50}",
-                  "type": "color"
-                }
-              }
             }
           },
           "fg": {
@@ -1363,10 +1069,6 @@
                 "darker-40": {
                   "value": "{smc.colors.surface.fixed.darker-40}",
                   "type": "color"
-                },
-                "darker-100": {
-                  "value": "{smc.colors.surface.fixed.darker-100}",
-                  "type": "color"
                 }
               },
               "transparent": {
@@ -1422,26 +1124,6 @@
                   "value": "{smc.colors.opacity.cool.950}",
                   "type": "color"
                 }
-              },
-              "darker-20": {
-                "value": "{smc.colors.surface.darker-20}",
-                "type": "color"
-              },
-              "darker-30": {
-                "value": "{smc.colors.surface.darker-30}",
-                "type": "color"
-              },
-              "darker-80": {
-                "value": "{smc.colors.surface.darker-80}",
-                "type": "color"
-              },
-              "darker-90": {
-                "value": "{smc.colors.surface.darker-90}",
-                "type": "color"
-              },
-              "darker-100": {
-                "value": "{smc.colors.surface.darker-100}",
-                "type": "color"
               }
             },
             "primary": {
@@ -1792,56 +1474,6 @@
               "lighter-50": {
                 "value": "{smc.colors.success.lighter-50}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-100": {
-                  "value": "{smc.colors.surface.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "lighter-50": {
-                  "value": "{smc.colors.success.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.success.fixed.darker-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.success.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.success.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.success.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.success.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.success.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.success.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.success.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.success.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.success.fixed.darker-30}",
-                  "type": "color"
-                }
               }
             },
             "error": {
@@ -1886,62 +1518,12 @@
                 "type": "color"
               },
               "lighter-40": {
-                "value": "{smc.colors.error.lighter-40}",
+                "value": "{smc.colors.error.lighter-30}",
                 "type": "color"
               },
               "lighter-50": {
-                "value": "{smc.colors.error.lighter-50}",
+                "value": "{smc.colors.error.lighter-30}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-100": {
-                  "value": "{smc.colors.surface.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "lighter-50": {
-                  "value": "{smc.colors.error.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.error.fixed.darker-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.error.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.error.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.error.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.error.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.error.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.error.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.error.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.error.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.error.fixed.darker-30}",
-                  "type": "color"
-                }
               }
             },
             "warning": {
@@ -1992,56 +1574,6 @@
               "lighter-50": {
                 "value": "{smc.colors.warning.lighter-50}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-100": {
-                  "value": "{smc.colors.surface.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "lighter-50": {
-                  "value": "{smc.colors.warning.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.warning.fixed.darker-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.warning.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.warning.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.warning.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.warning.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.warning.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.warning.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.warning.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.warning.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.warning.fixed.darker-30}",
-                  "type": "color"
-                }
               }
             },
             "info": {
@@ -2092,56 +1624,6 @@
               "lighter-50": {
                 "value": "{smc.colors.info.lighter-50}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-100": {
-                  "value": "{smc.colors.surface.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "lighter-50": {
-                  "value": "{smc.colors.info.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.info.fixed.darker-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.info.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.info.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.info.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.info.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.info.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.info.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.info.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.info.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.info.fixed.darker-30}",
-                  "type": "color"
-                }
               }
             },
             "disabled": {
@@ -2323,106 +1805,6 @@
             "transparent": {
               "value": "{base.color.transparent}",
               "type": "color"
-            },
-            "highlight": {
-              "lighter-100": {
-                "value": "{smc.colors.surface.lighter-10}",
-                "type": "color"
-              },
-              "lighter-50": {
-                "value": "{smc.colors.highlight.lighter-50}",
-                "type": "color"
-              },
-              "lighter-40": {
-                "value": "{smc.colors.highlight.lighter-40}",
-                "type": "color"
-              },
-              "lighter-30": {
-                "value": "{smc.colors.highlight.lighter-30}",
-                "type": "color"
-              },
-              "lighter-20": {
-                "value": "{smc.colors.highlight.lighter-20}",
-                "type": "color"
-              },
-              "lighter-10": {
-                "value": "{smc.colors.highlight.lighter-10}",
-                "type": "color"
-              },
-              "default": {
-                "value": "{smc.colors.highlight.default}",
-                "type": "color"
-              },
-              "darker-10": {
-                "value": "{smc.colors.highlight.darker-10}",
-                "type": "color"
-              },
-              "darker-20": {
-                "value": "{smc.colors.highlight.darker-20}",
-                "type": "color"
-              },
-              "darker-30": {
-                "value": "{smc.colors.highlight.darker-30}",
-                "type": "color"
-              },
-              "darker-40": {
-                "value": "{smc.colors.highlight.darker-40}",
-                "type": "color"
-              },
-              "darker-50": {
-                "value": "{smc.colors.highlight.darker-50}",
-                "type": "color"
-              },
-              "fixed": {
-                "lighter-100": {
-                  "value": "{smc.colors.surface.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "lighter-50": {
-                  "value": "{smc.colors.highlight.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.highlight.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.highlight.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.highlight.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.highlight.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.highlight.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.highlight.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.highlight.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.highlight.fixed.darker-30}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.highlight.fixed.darker-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.highlight.fixed.darker-50}",
-                  "type": "color"
-                }
-              }
             }
           },
           "border": {
@@ -2490,10 +1872,6 @@
                 },
                 "darker-95": {
                   "value": "{smc.colors.surface.fixed.darker-95}",
-                  "type": "color"
-                },
-                "darker-100": {
-                  "value": "{smc.colors.surface.fixed.darker-100}",
                   "type": "color"
                 }
               },
@@ -2573,22 +1951,6 @@
               },
               "darker-40": {
                 "value": "{smc.colors.surface.darker-40}",
-                "type": "color"
-              },
-              "darker-60": {
-                "value": "{smc.colors.surface.darker-60}",
-                "type": "color"
-              },
-              "darker-80": {
-                "value": "{smc.colors.surface.darker-80}",
-                "type": "color"
-              },
-              "darker-90": {
-                "value": "{smc.colors.surface.darker-90}",
-                "type": "color"
-              },
-              "darker-95": {
-                "value": "{smc.colors.surface.darker-95}",
                 "type": "color"
               }
             },
@@ -2924,52 +2286,6 @@
               "lighter-50": {
                 "value": "{smc.colors.success.lighter-50}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-50": {
-                  "value": "{smc.colors.success.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.success.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.success.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.success.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.success.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.success.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.success.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.success.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.success.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.success.fixed.darker-30}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.success.fixed.darker-40}",
-                  "type": "color"
-                }
               }
             },
             "error": {
@@ -3016,52 +2332,6 @@
               "lighter-50": {
                 "value": "{smc.colors.error.lighter-50}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-50": {
-                  "value": "{smc.colors.error.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.error.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.error.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.error.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.error.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.error.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.error.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.error.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.error.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.error.fixed.darker-30}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.error.fixed.darker-40}",
-                  "type": "color"
-                }
               }
             },
             "warning": {
@@ -3108,52 +2378,6 @@
               "lighter-10": {
                 "value": "{smc.colors.warning.lighter-10}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-50": {
-                  "value": "{smc.colors.warning.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.warning.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.warning.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.warning.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.warning.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.warning.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.warning.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.warning.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.warning.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.warning.fixed.darker-30}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.warning.fixed.darker-40}",
-                  "type": "color"
-                }
               }
             },
             "info": {
@@ -3200,52 +2424,6 @@
               "lighter-50": {
                 "value": "{smc.colors.info.lighter-50}",
                 "type": "color"
-              },
-              "fixed": {
-                "lighter-50": {
-                  "value": "{smc.colors.info.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.info.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.info.fixed.darker-50}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.info.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.info.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.info.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.info.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.info.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.info.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.info.fixed.darker-30}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.info.fixed.darker-40}",
-                  "type": "color"
-                }
               }
             },
             "disabled": {
@@ -3401,102 +2579,6 @@
             "transparent": {
               "value": "{base.color.transparent}",
               "type": "color"
-            },
-            "highlight": {
-              "lighter-50": {
-                "value": "{smc.colors.highlight.lighter-50}",
-                "type": "color"
-              },
-              "lighter-40": {
-                "value": "{smc.colors.highlight.lighter-40}",
-                "type": "color"
-              },
-              "lighter-30": {
-                "value": "{smc.colors.highlight.lighter-30}",
-                "type": "color"
-              },
-              "lighter-20": {
-                "value": "{smc.colors.highlight.lighter-20}",
-                "type": "color"
-              },
-              "lighter-10": {
-                "value": "{smc.colors.highlight.lighter-10}",
-                "type": "color"
-              },
-              "default": {
-                "value": "{smc.colors.highlight.default}",
-                "type": "color"
-              },
-              "darker-10": {
-                "value": "{smc.colors.highlight.darker-10}",
-                "type": "color"
-              },
-              "darker-20": {
-                "value": "{smc.colors.highlight.darker-20}",
-                "type": "color"
-              },
-              "darker-30": {
-                "value": "{smc.colors.highlight.darker-30}",
-                "type": "color"
-              },
-              "darker-40": {
-                "value": "{smc.colors.highlight.darker-40}",
-                "type": "color"
-              },
-              "darker-50": {
-                "value": "{smc.colors.highlight.darker-50}",
-                "type": "color"
-              },
-              "fixed": {
-                "lighter-100": {
-                  "value": "{smc.colors.surface.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "lighter-50": {
-                  "value": "{smc.colors.highlight.fixed.lighter-50}",
-                  "type": "color"
-                },
-                "lighter-40": {
-                  "value": "{smc.colors.highlight.fixed.lighter-40}",
-                  "type": "color"
-                },
-                "lighter-30": {
-                  "value": "{smc.colors.highlight.fixed.lighter-30}",
-                  "type": "color"
-                },
-                "lighter-20": {
-                  "value": "{smc.colors.highlight.fixed.lighter-20}",
-                  "type": "color"
-                },
-                "lighter-10": {
-                  "value": "{smc.colors.highlight.fixed.lighter-10}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{smc.colors.highlight.fixed.default}",
-                  "type": "color"
-                },
-                "darker-10": {
-                  "value": "{smc.colors.highlight.fixed.darker-10}",
-                  "type": "color"
-                },
-                "darker-20": {
-                  "value": "{smc.colors.highlight.fixed.darker-20}",
-                  "type": "color"
-                },
-                "darker-30": {
-                  "value": "{smc.colors.highlight.fixed.darker-30}",
-                  "type": "color"
-                },
-                "darker-40": {
-                  "value": "{smc.colors.highlight.fixed.darker-40}",
-                  "type": "color"
-                },
-                "darker-50": {
-                  "value": "{smc.colors.highlight.fixed.darker-50}",
-                  "type": "color"
-                }
-              }
             }
           }
         },
@@ -3902,10 +2984,6 @@
               "value": "{base.dimension.2560}",
               "type": "number"
             },
-            "512": {
-              "value": "{base.dimension.5120}",
-              "type": "number"
-            },
             "none": {
               "value": "{base.dimension.0}",
               "type": "number"
@@ -4309,18 +3387,6 @@
               },
               "darker-100": {
                 "value": "{smc.colors.surface.darker-100}",
-                "type": "color"
-              },
-              "darker-40": {
-                "value": "{smc.colors.surface.darker-40}",
-                "type": "color"
-              },
-              "darker-50": {
-                "value": "{smc.colors.surface.darker-50}",
-                "type": "color"
-              },
-              "darker-60": {
-                "value": "{smc.colors.surface.darker-60}",
                 "type": "color"
               }
             },
@@ -4845,64 +3911,6 @@
                   "type": "color"
                 }
               }
-            },
-            "primary": {
-              "default": {
-                "value": "{smc.reference.container.color.bg.primary.default}",
-                "type": "color"
-              },
-              "hovered": {
-                "value": "{smc.reference.container.color.bg.primary.darker-20}",
-                "type": "color"
-              },
-              "focused": {
-                "value": "{smc.reference.container.color.bg.primary.default}",
-                "type": "color"
-              },
-              "pressed": {
-                "value": "{smc.reference.container.color.bg.primary.darker-30}",
-                "type": "color"
-              },
-              "disabled": {
-                "value": "{smc.reference.container.color.bg.surface.transparent.200}",
-                "type": "color"
-              },
-              "error": {
-                "default": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
-                  "type": "color"
-                },
-                "hovered": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
-                  "type": "color"
-                },
-                "focused": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
-                  "type": "color"
-                },
-                "pressed": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
-                  "type": "color"
-                }
-              },
-              "success": {
-                "default": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
-                  "type": "color"
-                },
-                "hovered": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
-                  "type": "color"
-                },
-                "focused": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
-                  "type": "color"
-                },
-                "pressed": {
-                  "value": "{smc.reference.container.color.bg.surface.transparent.0}",
-                  "type": "color"
-                }
-              }
             }
           },
           "border": {
@@ -5079,64 +4087,6 @@
                   "type": "color"
                 }
               }
-            },
-            "primary": {
-              "default": {
-                "value": "{smc.reference.container.color.border.primary.default}",
-                "type": "color"
-              },
-              "hovered": {
-                "value": "{smc.reference.container.color.border.primary.darker-20}",
-                "type": "color"
-              },
-              "focused": {
-                "value": "{smc.reference.container.color.border.primary.default}",
-                "type": "color"
-              },
-              "pressed": {
-                "value": "{smc.reference.container.color.border.primary.darker-30}",
-                "type": "color"
-              },
-              "disabled": {
-                "value": "{smc.reference.container.color.bg.surface.transparent.250}",
-                "type": "color"
-              },
-              "error": {
-                "default": {
-                  "value": "{smc.reference.container.color.border.error.default}",
-                  "type": "color"
-                },
-                "hovered": {
-                  "value": "{smc.reference.container.color.border.error.darker-20}",
-                  "type": "color"
-                },
-                "focused": {
-                  "value": "{smc.reference.container.color.border.error.default}",
-                  "type": "color"
-                },
-                "pressed": {
-                  "value": "{smc.reference.container.color.border.error.default}",
-                  "type": "color"
-                }
-              },
-              "success": {
-                "default": {
-                  "value": "{smc.reference.container.color.border.success.default}",
-                  "type": "color"
-                },
-                "hovered": {
-                  "value": "{smc.reference.container.color.border.success.darker-20}",
-                  "type": "color"
-                },
-                "focused": {
-                  "value": "{smc.reference.container.color.border.success.default}",
-                  "type": "color"
-                },
-                "pressed": {
-                  "value": "{smc.reference.container.color.border.success.default}",
-                  "type": "color"
-                }
-              }
             }
           },
           "fg": {
@@ -5209,19 +4159,19 @@
               },
               "light": {
                 "default": {
-                  "value": "{smc.reference.container.color.fg.surface.fixed.default}",
+                  "value": "{smc.reference.container.color.fg.surface.default}",
                   "type": "color"
                 },
                 "hovered": {
-                  "value": "{smc.reference.container.color.fg.surface.fixed.lighter-10}",
+                  "value": "{smc.reference.container.color.fg.surface.lighter-10}",
                   "type": "color"
                 },
                 "focused": {
-                  "value": "{smc.reference.container.color.fg.surface.fixed.lighter-10}",
+                  "value": "{smc.reference.container.color.fg.surface.lighter-10}",
                   "type": "color"
                 },
                 "pressed": {
-                  "value": "{smc.reference.container.color.fg.surface.fixed.default}",
+                  "value": "{smc.reference.container.color.fg.surface.default}",
                   "type": "color"
                 },
                 "disabled": {
@@ -5230,19 +4180,19 @@
                 },
                 "error": {
                   "default": {
-                    "value": "{smc.reference.container.color.fg.surface.fixed.default}",
+                    "value": "{smc.reference.container.color.fg.surface.default}",
                     "type": "color"
                   },
                   "hovered": {
-                    "value": "{smc.reference.container.color.fg.surface.fixed.lighter-10}",
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
                     "type": "color"
                   },
                   "focused": {
-                    "value": "{smc.reference.container.color.fg.surface.fixed.lighter-10}",
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
                     "type": "color"
                   },
                   "pressed": {
-                    "value": "{smc.reference.container.color.fg.surface.fixed.default}",
+                    "value": "{smc.reference.container.color.fg.surface.default}",
                     "type": "color"
                   },
                   "disabled": {
@@ -5252,19 +4202,19 @@
                 },
                 "success": {
                   "default": {
-                    "value": "{smc.reference.container.color.fg.surface.fixed.default}",
+                    "value": "{smc.reference.container.color.fg.surface.default}",
                     "type": "color"
                   },
                   "hovered": {
-                    "value": "{smc.reference.container.color.fg.surface.fixed.lighter-10}",
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
                     "type": "color"
                   },
                   "focused": {
-                    "value": "{smc.reference.container.color.fg.surface.fixed.lighter-10}",
+                    "value": "{smc.reference.container.color.fg.surface.lighter-10}",
                     "type": "color"
                   },
                   "pressed": {
-                    "value": "{smc.reference.container.color.fg.surface.fixed.default}",
+                    "value": "{smc.reference.container.color.fg.surface.default}",
                     "type": "color"
                   },
                   "disabled": {
