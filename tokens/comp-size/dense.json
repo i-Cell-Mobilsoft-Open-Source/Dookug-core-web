@@ -1,0 +1,82 @@
+{
+  "comp": {
+    "size": {
+      "image": {
+        "caption": {
+          "typography": {
+            "smallCollection": {
+              "font-family": {
+                "value": "{base.typography.font-family.Montserrat}",
+                "type": "text"
+              },
+              "font-size": {
+                "value": "{smc.reference.typography.font-size.12}",
+                "type": "number"
+              },
+              "line-height": {
+                "value": "{smc.reference.typography.line-height.14}",
+                "type": "number"
+              },
+              "font-weight": {
+                "value": "{smc.reference.typography.font-weight.Regular}",
+                "type": "number"
+              },
+              "letter-spacing": {
+                "value": "{smc.reference.typography.letter-spacing.default}",
+                "type": "number"
+              }
+            },
+            "bigCollection": {
+              "font-family": {
+                "value": "{base.typography.font-family.Montserrat}",
+                "type": "text"
+              },
+              "font-size": {
+                "value": "{smc.reference.typography.font-size.12}",
+                "type": "number"
+              },
+              "line-height": {
+                "value": "{smc.reference.typography.line-height.14}",
+                "type": "number"
+              },
+              "font-weight": {
+                "value": "{smc.reference.typography.font-weight.Regular}",
+                "type": "number"
+              },
+              "letter-spacing": {
+                "value": "{smc.reference.typography.letter-spacing.default}",
+                "type": "number"
+              }
+            }
+          }
+        },
+        "size": {
+          "border-radius": {
+            "value": "{smc.reference.container.border-radius.none}",
+            "type": "number"
+          },
+          "smallCollection": {
+            "height": {
+              "value": "{smc.reference.container.size.height.44}",
+              "type": "number"
+            }
+          },
+          "border": {
+            "value": "{smc.reference.container.border-width.sm}",
+            "type": "number"
+          },
+          "bigCollection": {
+            "height": {
+              "value": "{smc.reference.container.size.height.96}",
+              "type": "number"
+            }
+          },
+          "gap": {
+            "value": "{smc.reference.container.gap.16}",
+            "type": "number"
+          }
+        }
+      }
+    }
+  }
+}
