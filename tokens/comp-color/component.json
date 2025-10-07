@@ -1,0 +1,18 @@
+{
+  "comp": {
+    "color": {
+      "divider": {
+        "color": {
+          "bg": {
+            "surface": {
+              "default": {
+                "value": "{smc.reference.container.color.bg.surface.darker-30}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
