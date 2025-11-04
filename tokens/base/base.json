@@ -571,47 +571,47 @@
       },
       "Green": {
         "50": {
-          "value": "#f0fdf4",
+          "value": "#eefcf3",
           "type": "color"
         },
         "100": {
-          "value": "#dcfce7",
+          "value": "#cbf6da",
           "type": "color"
         },
         "200": {
-          "value": "#bbf7d0",
+          "value": "#7ce9a4",
           "type": "color"
         },
         "300": {
-          "value": "#86efac",
+          "value": "#2adb6b",
           "type": "color"
         },
         "400": {
-          "value": "#4ade80",
+          "value": "#1da850",
           "type": "color"
         },
         "500": {
-          "value": "#22c55e",
+          "value": "#178740",
           "type": "color"
         },
         "600": {
-          "value": "#16a34a",
+          "value": "#147537",
           "type": "color"
         },
         "700": {
-          "value": "#15803d",
+          "value": "#116630",
           "type": "color"
         },
         "800": {
-          "value": "#166534",
+          "value": "#0e5026",
           "type": "color"
         },
         "900": {
-          "value": "#14532d",
+          "value": "#0a381b",
           "type": "color"
         },
         "950": {
-          "value": "#052e16",
+          "value": "#072a14",
           "type": "color"
         }
       },
@@ -913,27 +913,27 @@
           "type": "color"
         },
         "500": {
-          "value": "#a855f7",
+          "value": "#9c4fe5",
           "type": "color"
         },
         "600": {
-          "value": "#9333ea",
+          "value": "#882fd9",
           "type": "color"
         },
         "700": {
-          "value": "#7e22ce",
+          "value": "#731fbd",
           "type": "color"
         },
         "800": {
-          "value": "#6b21a8",
+          "value": "#601e96",
           "type": "color"
         },
         "900": {
-          "value": "#581c87",
+          "value": "#4c1875",
           "type": "color"
         },
         "950": {
-          "value": "#3b0764",
+          "value": "#300652",
           "type": "color"
         }
       },
