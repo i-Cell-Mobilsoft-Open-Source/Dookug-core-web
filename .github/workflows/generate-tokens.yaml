@@ -19,7 +19,7 @@ on:
 
 env:
   TOKEN_REPO: https://github.com/i-Cell-Mobilsoft-Open-Source/ids-tokens.git
-  TARGET_REPO: https://github.com/i-Cell-Mobilsoft-Open-Source/Dookug-frontend.git
+  TARGET_REPO: "i-Cell-Mobilsoft-Open-Source/Dookug-frontend"
   CORE_WEB_REPO: "https://github.com/i-Cell-Mobilsoft-Open-Source/Dookug-core-web.git"
 
 jobs:
@@ -30,7 +30,7 @@ jobs:
       artifact-path: ${{ steps.out.outputs.artifact_path }}
     steps:
       - name: Checkout runner repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Node and pnpm
         uses: actions/setup-node@v4
@@ -84,7 +84,7 @@ jobs:
           git config --global user.email "github.robot@icellmobilsoft.hu"
 
       - name: Checkout target repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: ${{ env.TARGET_REPO }}
           token: ${{ secrets.GIT_PAT }}
