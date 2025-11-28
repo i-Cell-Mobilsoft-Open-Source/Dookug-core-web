@@ -20,6 +20,7 @@ on:
 env:
   TOKEN_REPO: https://github.com/i-Cell-Mobilsoft-Open-Source/ids-tokens.git
   TARGET_REPO: https://github.com/i-Cell-Mobilsoft-Open-Source/Dookug-frontend.git
+  CORE_WEB_REPO: "https://github.com/i-Cell-Mobilsoft-Open-Source/Dookug-core-web.git"
 
 jobs:
   generate-tokens:
