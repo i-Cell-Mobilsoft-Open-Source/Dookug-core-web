@@ -21,6 +21,7 @@ env:
   TOKEN_REPO: https://github.com/i-Cell-Mobilsoft-Open-Source/ids-tokens.git
   TARGET_REPO: "i-Cell-Mobilsoft-Open-Source/Dookug-frontend"
   CORE_WEB_REPO: "https://github.com/i-Cell-Mobilsoft-Open-Source/Dookug-core-web.git"
+  TARGET_REPO_PATH: "target-repo"
 
 jobs:
   generate-tokens:
@@ -89,9 +90,11 @@ jobs:
           repository: ${{ env.TARGET_REPO }}
           token: ${{ secrets.GIT_PAT }}
           fetch-depth: 0
+          path: ${{ env.TARGET_REPO_PATH }}
 
       - name: Create or checkout feature branch
         run: |
+          cd ${{ env.TARGET_REPO_PATH }}
           BRANCH="${{ github.event.inputs.feature_branch }}"
           if git ls-remote --heads origin "$BRANCH" | grep -q "$BRANCH"; then
             git checkout "$BRANCH"
@@ -102,7 +105,7 @@ jobs:
       - name: Copy generated css
         run: |
           mkdir -p ids_css
-          rsync -a --delete css-optimized/ ids_css/
+          rsync -a --delete ../css-optimized/ ids_css/
 
       - name: Commit changes if any
         run: |
