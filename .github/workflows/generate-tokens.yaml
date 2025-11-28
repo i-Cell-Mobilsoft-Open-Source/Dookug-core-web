@@ -94,9 +94,7 @@ jobs:
 
       - name: Create or checkout feature branch
         run: |
-          ls -la
           cd ${{ env.TARGET_REPO_PATH }}
-          ls -la
           BRANCH="${{ github.event.inputs.feature_branch }}"
           if git ls-remote --heads origin "$BRANCH" | grep -q "$BRANCH"; then
             git checkout "$BRANCH"
@@ -106,14 +104,12 @@ jobs:
 
       - name: Copy generated css
         run: |
-          ls -la
-          cd ..
-          ls -la
-          mkdir -p ids_css
-          rsync -a --delete ../css-optimized/ ids_css/
+          mkdir -p ${{ env.TARGET_REPO_PATH }}/ids_css
+          rsync -a --delete css-optimized/ ${{ env.TARGET_REPO_PATH }}/ids_css/
 
       - name: Commit changes if any
         run: |
+          cd ${{ env.TARGET_REPO_PATH }}
           if [ -n "$(git status --porcelain ids_css)" ]; then
             git add ids_css
             git commit -m "Update ids_css from token generation job"
