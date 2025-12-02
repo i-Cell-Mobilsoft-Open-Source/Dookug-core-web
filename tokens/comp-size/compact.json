@@ -48,11 +48,11 @@
         },
         "size": {
           "padding-x": {
-            "value": "{smc.reference.container.padding.8}",
+            "value": "{smc.reference.container.padding.10}",
             "type": "number"
           },
           "padding-y": {
-            "value": "{smc.reference.container.padding.6}",
+            "value": "{smc.reference.container.padding.10}",
             "type": "number"
           },
           "border-radius": {
@@ -72,7 +72,7 @@
             "type": "number"
           },
           "gap": {
-            "value": "{smc.reference.container.gap.2}",
+            "value": "{smc.reference.container.gap.4}",
             "type": "number"
           },
           "border-width": {

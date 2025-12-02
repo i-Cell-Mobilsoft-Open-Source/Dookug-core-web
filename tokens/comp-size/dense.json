@@ -48,7 +48,7 @@
         },
         "size": {
           "padding-x": {
-            "value": "{smc.reference.container.padding.4}",
+            "value": "{smc.reference.container.padding.6}",
             "type": "number"
           },
           "padding-y": {
@@ -60,7 +60,7 @@
             "type": "number"
           },
           "icon": {
-            "value": "{smc.reference.container.icon-nested.lg}",
+            "value": "{smc.reference.container.icon-nested.xs}",
             "type": "number"
           },
           "height": {
@@ -72,7 +72,7 @@
             "type": "number"
           },
           "gap": {
-            "value": "{smc.reference.container.gap.8}",
+            "value": "{smc.reference.container.gap.4}",
             "type": "number"
           },
           "border-width": {
