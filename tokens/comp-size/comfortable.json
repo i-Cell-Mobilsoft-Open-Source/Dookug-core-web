@@ -69,11 +69,11 @@
         "container": {
           "size": {
             "padding-x": {
-              "value": "{smc.reference.container.padding.24}",
+              "value": "{smc.reference.container.padding.32}",
               "type": "number"
             },
             "padding-y": {
-              "value": "{smc.reference.container.padding.24}",
+              "value": "{smc.reference.container.padding.32}",
               "type": "number"
             },
             "border-width": {
@@ -154,7 +154,7 @@
               "type": "number"
             },
             "opacity": {
-              "value": "{smc.reference.container.color.opacity.backdrop-percentage}",
+              "value": "{smc.reference.container.color.opacity.backdrop}",
               "type": "number"
             }
           }
